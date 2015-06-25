@@ -1,0 +1,19 @@
+{
+  "name": "hubot-demo-me",
+  "version": "0.0.1",
+  "description": "Make hubot display a random demoscene production.",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roger Wilson",
+  "license": "MIT",
+  "keywords": [
+    "demoscene",
+    "hubot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CaptainJiNX/hubot-demo-me.git"
+  }
+}
